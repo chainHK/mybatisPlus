@@ -25,7 +25,7 @@ public class DemoApplicationTests {
 
     @Test
     public void showInfo(){
-        System.out.println("这是主干");
+        System.out.println("这是分支测试");
     }
 }
 
