@@ -27,5 +27,10 @@ public class DemoApplicationTests {
     public void showInfo(){
         System.out.println("这是分支测试");
     }
+
+    @Test
+    public void showInfo1(){
+        System.out.println("这是分支测试");
+    }
 }
 
