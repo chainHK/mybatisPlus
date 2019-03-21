@@ -25,12 +25,12 @@ public class DemoApplicationTests {
 
     @Test
     public void showInfo(){
-        System.out.println("这是第三个分支-------------");
+        System.out.println("这是第二个分支-------------");
     }
 
     @Test
     public void showInfo1(){
-        System.out.println("这是第三个分支-----------------");
+        System.out.println("这是第二个分支-----------------");
     }
 }
 
